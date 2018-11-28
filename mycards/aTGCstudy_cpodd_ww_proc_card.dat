@@ -1,0 +1,6 @@
+import model EWdim6NLO-no_cmass_cpodd
+generate p p > w+ w- , w+ > j j , w- > l- vl~ QED=99
+add process p p > w+ w- , w- > j j , w+ > l+ vl QED=99
+output aTGC_study_ww_cpodd
+
+NOTE: what about qed, qcd stuff like that?
