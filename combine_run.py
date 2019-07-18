@@ -28,7 +28,7 @@ the parameter ", par_of_int;
     command = 'combine workspace_simfit.root -M MaxLikelihoodFit --expectSignal=1 --freezeNuisances '+frozen+' --setPhysicsModelParameters '+point+' --minimizerStrategy 2 --cminPreScan --redefineSignalPOIs '+par_of_int+' --saveNormalizations --saveWithUncertainties --skipBOnlyFit -n '+name
 
     print 'running the command:\n'+command
-    #os.system(command)
+    os.system(command)
    
 
 param_list = ['ccw','cwww','cb']
