@@ -1,0 +1,3599 @@
+# Conditions read from  CMS_CONDITIONS  via FrontierProd 
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.9243
+fermion sum mass is 885.202
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 60.8991
+fermion sum mass is 887.46
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.5291
+fermion sum mass is 426.542
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.4278
+fermion sum mass is 558.679
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.4082
+fermion sum mass is 2148.01
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.6583
+fermion sum mass is 706.199
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.9938
+fermion sum mass is 502.688
+NTUPLIZER: imaginary part is 15.5082
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 78.898 and neutrino is imaginary
+parton sum mass is 79.1239
+fermion sum mass is 393.186
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.9988
+fermion sum mass is 1231.49
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 99.4607
+fermion sum mass is 703.254
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.408
+fermion sum mass is 952.835
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.6981
+fermion sum mass is 1146.68
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.8868
+fermion sum mass is 647.909
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.7113
+fermion sum mass is 1124.92
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.0819
+fermion sum mass is 816.578
+NTUPLIZER: imaginary part is 56.1524
+lepton sum mass is 66.2194 and neutrino is imaginary
+parton sum mass is 86.501
+fermion sum mass is 955.248
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.5348
+fermion sum mass is 798.493
+NTUPLIZER: imaginary part is 88.9199
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.0404
+fermion sum mass is 930.361
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.7279
+fermion sum mass is 1102
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.9959
+fermion sum mass is 1210.16
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 100.021
+fermion sum mass is 772.843
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.839
+fermion sum mass is 722.602
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.0018
+fermion sum mass is 492.73
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.1009
+fermion sum mass is 636.065
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.8875
+fermion sum mass is 730.94
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.4441
+fermion sum mass is 676.289
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.8264
+fermion sum mass is 946.143
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.4786
+fermion sum mass is 640.52
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.0308
+fermion sum mass is 484.693
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.5666
+fermion sum mass is 1042.03
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.0166
+fermion sum mass is 1462.15
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.1725
+fermion sum mass is 1004.1
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.4386
+fermion sum mass is 573.755
+NTUPLIZER: imaginary part is 10.8027
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 79.7969 and neutrino is imaginary
+parton sum mass is 92.1149
+fermion sum mass is 821.536
+NTUPLIZER: imaginary part is 172.063
+WV less than 900.
+lepton sum mass is -23.4618 and neutrino is imaginary
+parton sum mass is 79.2886
+fermion sum mass is 504.535
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: 191.306 Y: -12.722 Z: -595.412 T: 803.635
+lepton_sum is X: 87.2829 Y: 221.037 Z: -424.393 T: 485.834
+parton_sum is X: 104.023 Y: -233.759 Z: -171.019 T: 317.802
+boostWWframe is X: -0.23805 Y: 0.0158305 Z: 0.740898
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: -19.6655 Y: 228.149 Z: -91.5313 T: 245.492
+boostWlep is X: -0.179656 Y: -0.454963 Z: 0.873535
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: -0.32732 Y: 0.735549 Z: 0.53813
+unitx_2 is X: 0.287415 Y: -0.911721 Z: -0.293525
+lepton1Whad_frame is X: -180.652 Y: 425.567 Z: 150.975 T: 486.349
+unitz_2 is X: -0.281091 Y: 0.212671 Z: -0.293525
+unity_2 is X: -0.915631 Y: -0.351476 Z: 0.195152
+parton1Whad_frame is X: 27.1484 Y: -1.9707 Z: 12.579 T: 48.4954
+parton1 dotted is X: 0.197005 Y: -0.724023 Z: -0.661044
+lepton_sum_WWframe is X: -19.6655 Y: 228.149 Z: -91.5313 T: 245.492
+lepton1WWframe is X: -50.0775 Y: 63.6092 Z: -17.5514 T: 82.8368
+parton1WWframe is X: 38.1438 Y: -149.612 Z: 77.275 T: 176.812
+parton_sum_WWframe is X: 19.6655 Y: -228.149 Z: 91.5313 T: 259.043
+n_unitx_1 is X: -0.537767 Y: -0.00668631 Z: 0.0988731
+n_unitz_1 is X: -0.0797433 Y: 0.925139 Z: 0.0988731
+n_unity_1 is X: 0.0889897 Y: 0.207481 Z: 0.498043
+n_unitx_2 is X: 0.142345 Y: 0.0450986 Z: 0.0818287
+n_unitz_2 is X: 0.0797433 Y: -0.925139 Z: 0.0818287
+n_unity_2 is X: -0.0924417 Y: 0.0463074 Z: 0.135286
+=======================================================================================================
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.4865
+fermion sum mass is 944.446
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.5899
+fermion sum mass is 407.192
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.357
+fermion sum mass is 1377.63
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.0923
+fermion sum mass is 783.054
+NTUPLIZER: imaginary part is 55.3437
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 74.9604 and neutrino is imaginary
+parton sum mass is 94.7428
+fermion sum mass is 1290.15
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.3565
+fermion sum mass is 758.793
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.2646
+fermion sum mass is 1067.12
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.1009
+fermion sum mass is 878.576
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.5141
+fermion sum mass is 702.658
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.0594
+fermion sum mass is 813.314
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.2408
+fermion sum mass is 748.147
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.9255
+fermion sum mass is 766.792
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.8668
+fermion sum mass is 905.159
+missed the cutoff.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.2023
+fermion sum mass is 1002.14
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.8821
+fermion sum mass is 1354.4
+NTUPLIZER: imaginary part is 214.675
+WV less than 900.
+lepton sum mass is 54.9475 and neutrino is imaginary
+parton sum mass is 90.1481
+fermion sum mass is 414.485
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.0122
+fermion sum mass is 804.189
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.5903
+fermion sum mass is 962.956
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.1175
+fermion sum mass is 831.897
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.841
+fermion sum mass is 569.761
+NTUPLIZER: imaginary part is 113.611
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 74.5069 and neutrino is imaginary
+parton sum mass is 86.7352
+fermion sum mass is 659.275
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.3836
+fermion sum mass is 760.191
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.8185
+fermion sum mass is 732.395
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.2555
+fermion sum mass is 604.538
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.362
+fermion sum mass is 836.632
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.1505
+fermion sum mass is 1125.61
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.4525
+fermion sum mass is 844.63
+NTUPLIZER: imaginary part is 44.7278
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 67.0864 and neutrino is imaginary
+parton sum mass is 90.6615
+fermion sum mass is 576.389
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.292
+fermion sum mass is 1062.61
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.2735
+fermion sum mass is 656.404
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.9955
+fermion sum mass is 840.087
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.0048
+fermion sum mass is 583.32
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.3818
+fermion sum mass is 1076.94
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.0093
+fermion sum mass is 531.308
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.696
+fermion sum mass is 1225.17
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.9336
+fermion sum mass is 558.341
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.5412
+fermion sum mass is 1057.36
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7945
+fermion sum mass is 966.509
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.1607
+fermion sum mass is 1545.43
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.9718
+fermion sum mass is 567.623
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7798
+fermion sum mass is 1391.6
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.3357
+fermion sum mass is 933.401
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.9433
+fermion sum mass is 602.236
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.4592
+fermion sum mass is 908.004
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 72.015
+fermion sum mass is 1507.1
+NTUPLIZER: imaginary part is 23.8536
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 76.8128 and neutrino is imaginary
+parton sum mass is 78.1216
+fermion sum mass is 1008.13
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.0648
+fermion sum mass is 455.035
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.5714
+fermion sum mass is 1409.11
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.2029
+fermion sum mass is 901.782
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.9213
+fermion sum mass is 544.249
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.7279
+fermion sum mass is 1013.54
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.7211
+fermion sum mass is 909.961
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.6613
+fermion sum mass is 1068.17
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.2692
+fermion sum mass is 1122.84
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.3072
+fermion sum mass is 866.139
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8412
+fermion sum mass is 769.033
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 69.6771
+fermion sum mass is 498.574
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.691
+fermion sum mass is 1494.16
+NTUPLIZER: imaginary part is 11.984
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 79.5035 and neutrino is imaginary
+parton sum mass is 83.1555
+fermion sum mass is 597.844
+NTUPLIZER: imaginary part is 38.0532
+lepton sum mass is 75.154 and neutrino is imaginary
+parton sum mass is 75.3786
+fermion sum mass is 1006.51
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.1099
+fermion sum mass is 581.279
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.9232
+fermion sum mass is 1190.64
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.8037
+fermion sum mass is 485.259
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.0508
+fermion sum mass is 977.671
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.9591
+fermion sum mass is 991.685
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.1693
+fermion sum mass is 524.327
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.2847
+fermion sum mass is 1066.11
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.4379
+fermion sum mass is 535.272
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.0254
+fermion sum mass is 485.015
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.3965
+fermion sum mass is 1049.99
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.7627
+fermion sum mass is 916.179
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.3036
+fermion sum mass is 681.657
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.5777
+fermion sum mass is 753.425
+NTUPLIZER: imaginary part is 41.1232
+lepton sum mass is 71.5583 and neutrino is imaginary
+parton sum mass is 87.5711
+fermion sum mass is 1614.7
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.8694
+fermion sum mass is 1039.71
+NTUPLIZER: imaginary part is 42.6026
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 76.8555 and neutrino is imaginary
+parton sum mass is 86.7879
+fermion sum mass is 550.641
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.5196
+fermion sum mass is 721.477
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.2193
+fermion sum mass is 708.328
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.5648
+fermion sum mass is 702.118
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.4668
+fermion sum mass is 598.567
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.9209
+fermion sum mass is 1124.4
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.9163
+fermion sum mass is 512.304
+NTUPLIZER: imaginary part is 73.2636
+jet and MET too close.
+lepton sum mass is 78.197 and neutrino is imaginary
+parton sum mass is 82.0765
+fermion sum mass is 1427.44
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.2733
+fermion sum mass is 560.364
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.7614
+fermion sum mass is 676.633
+missed the cutoff.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.9734
+fermion sum mass is 1148.51
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 68.6806
+fermion sum mass is 976.931
+NTUPLIZER: imaginary part is 68.9167
+WV less than 900.
+lepton sum mass is 63.6351 and neutrino is imaginary
+parton sum mass is 87.2642
+fermion sum mass is 715.255
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.8773
+fermion sum mass is 473.135
+NTUPLIZER: imaginary part is 48.2164
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 64.589 and neutrino is imaginary
+parton sum mass is 89.5911
+fermion sum mass is 680.137
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.4534
+fermion sum mass is 760.442
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.6806
+fermion sum mass is 571.737
+NTUPLIZER: imaginary part is 59.6698
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 63.1208 and neutrino is imaginary
+parton sum mass is 87.2989
+fermion sum mass is 710.528
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.6222
+fermion sum mass is 1124.7
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.2238
+fermion sum mass is 1028.2
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.4224
+fermion sum mass is 826.093
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.9832
+fermion sum mass is 1310.26
+NTUPLIZER: imaginary part is 94.7572
+jet and MET too close.
+lepton sum mass is -36.4115 and neutrino is imaginary
+parton sum mass is 88.119
+fermion sum mass is 1423.03
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: -90.4165 Y: 23.0252 Z: 945.095 T: 1710.82
+lepton_sum is X: -281.064 Y: -371.682 Z: -181.493 T: 498.756
+parton_sum is X: 190.647 Y: 394.707 Z: 1126.59 T: 1212.07
+boostWWframe is X: 0.0528497 Y: -0.0134586 Z: -0.552421
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: -246.238 Y: -380.55 Z: -545.518 T: 708.319
+boostWlep is X: 0.563529 Y: 0.745217 Z: 0.363891
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: -0.157291 Y: -0.325648 Z: -0.929477
+unitx_2 is X: 0.177554 Y: 0.349246 Z: 0.920055
+lepton1Whad_frame is X: -1096.86 Y: -2276.58 Z: -5898.08 T: 6416.03
+unitz_2 is X: 0.62328 Y: 0.683592 Z: 0.920055
+unity_2 is X: 0.761575 Y: -0.640881 Z: 0.0963032
+parton1Whad_frame is X: 38.2172 Y: -14.7751 Z: 0.660891 T: 42.4053
+parton1 dotted is X: 0.0545044 Y: 0.942869 Z: 0.328676
+lepton_sum_WWframe is X: -246.238 Y: -380.55 Z: -545.518 T: 708.319
+lepton1WWframe is X: -96.3944 Y: -250.168 Z: -302.043 T: 394.101
+parton1WWframe is X: 161.611 Y: 175.616 Z: 271.853 T: 361.914
+parton_sum_WWframe is X: 246.238 Y: 380.55 Z: 545.518 T: 714.707
+n_unitx_1 is X: 0.105183 Y: -0.0880094 Z: 0.0139171
+n_unitz_1 is X: -0.347178 Y: -0.53655 Z: 0.0139171
+n_unity_1 is X: -0.0751591 Y: -0.0760691 Z: 0.0869908
+n_unitx_2 is X: 0.101797 Y: -0.0476451 Z: -0.0127125
+n_unitz_2 is X: 0.347178 Y: 0.53655 Z: -0.0127125
+n_unity_2 is X: 0.029825 Y: 0.0827101 Z: -0.0711606
+=======================================================================================================
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.9532
+fermion sum mass is 703.248
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.9058
+fermion sum mass is 1135
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.7356
+fermion sum mass is 789.635
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 72.9772
+fermion sum mass is 619.604
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.9291
+fermion sum mass is 1417.47
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.0408
+fermion sum mass is 633.693
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.5076
+fermion sum mass is 479.201
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.7707
+fermion sum mass is 596.837
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.8175
+fermion sum mass is 542.171
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.3377
+fermion sum mass is 679.243
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.9456
+fermion sum mass is 1485.58
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.6462
+fermion sum mass is 1086.23
+NTUPLIZER: imaginary part is 18.2575
+WV less than 900.
+lepton sum mass is 78.566 and neutrino is imaginary
+parton sum mass is 86.0553
+fermion sum mass is 630.795
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.9318
+fermion sum mass is 718.177
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.6195
+fermion sum mass is 742.099
+NTUPLIZER: imaginary part is 80.1346
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 26.7275 and neutrino is imaginary
+parton sum mass is 84.9479
+fermion sum mass is 1145.83
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.683
+fermion sum mass is 935.196
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.9437
+fermion sum mass is 780.398
+NTUPLIZER: imaginary part is 81.6329
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 77.7402 and neutrino is imaginary
+parton sum mass is 93.4111
+fermion sum mass is 818.046
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.0223
+fermion sum mass is 1157.1
+NTUPLIZER: imaginary part is 17.2356
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 78.5504 and neutrino is imaginary
+parton sum mass is 97.3408
+fermion sum mass is 529.979
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.1006
+fermion sum mass is 545.649
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.7878
+fermion sum mass is 469.798
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.6114
+fermion sum mass is 2202.44
+NTUPLIZER: imaginary part is 27.1602
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 75.9601 and neutrino is imaginary
+parton sum mass is 85.1177
+fermion sum mass is 594.591
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.5821
+fermion sum mass is 986.457
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.2789
+fermion sum mass is 921.094
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.6244
+fermion sum mass is 1102.18
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.8313
+fermion sum mass is 899.041
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.7925
+fermion sum mass is 985.298
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.709
+fermion sum mass is 921.694
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.756
+fermion sum mass is 874.288
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.4537
+fermion sum mass is 932.009
+missed the cutoff.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.0688
+fermion sum mass is 1267.64
+NTUPLIZER: imaginary part is 42.6602
+WV less than 900.
+lepton sum mass is 79.6521 and neutrino is imaginary
+parton sum mass is 82.8394
+fermion sum mass is 789.362
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.7219
+fermion sum mass is 481.967
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.2327
+fermion sum mass is 796.248
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.0145
+fermion sum mass is 717.026
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.9934
+fermion sum mass is 946.672
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.8247
+fermion sum mass is 1127.12
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.5702
+fermion sum mass is 1123.04
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.944
+fermion sum mass is 865.614
+NTUPLIZER: imaginary part is 31.1632
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 78.3221 and neutrino is imaginary
+parton sum mass is 87.8056
+fermion sum mass is 750.114
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.1807
+fermion sum mass is 753.851
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.1104
+fermion sum mass is 820.834
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.5898
+fermion sum mass is 810.324
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.0326
+fermion sum mass is 458.36
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.3091
+fermion sum mass is 792.019
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.649
+fermion sum mass is 1078.07
+NTUPLIZER: imaginary part is 109.896
+wlep and jet too close.
+lepton sum mass is 45.0087 and neutrino is imaginary
+parton sum mass is 88.4594
+fermion sum mass is 1313.83
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.9664
+fermion sum mass is 1337.07
+NTUPLIZER: imaginary part is 51.7312
+WV less than 900.
+lepton sum mass is 70.6766 and neutrino is imaginary
+parton sum mass is 89.5338
+fermion sum mass is 876.667
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.2001
+fermion sum mass is 740.202
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.3137
+fermion sum mass is 740.882
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.2607
+fermion sum mass is 1339.18
+NTUPLIZER: imaginary part is 99.3686
+lepton sum mass is 72.5068 and neutrino is imaginary
+parton sum mass is 87.3449
+fermion sum mass is 915.132
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.2888
+fermion sum mass is 549.259
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 98.3415
+fermion sum mass is 585.472
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.3632
+fermion sum mass is 404.158
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.2418
+fermion sum mass is 411.912
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.1935
+fermion sum mass is 541.686
+NTUPLIZER: imaginary part is 59.3583
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 78.0355 and neutrino is imaginary
+parton sum mass is 88.7044
+fermion sum mass is 804.655
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.4521
+fermion sum mass is 847.482
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.7599
+fermion sum mass is 900.827
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.864
+fermion sum mass is 1178.29
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.0822
+fermion sum mass is 804.795
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9819
+fermion sum mass is 941.4
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.9771
+fermion sum mass is 750.522
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.1092
+fermion sum mass is 1689.93
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.4123
+fermion sum mass is 1239.5
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.954
+fermion sum mass is 766.102
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.0706
+fermion sum mass is 517.825
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 62.4979
+fermion sum mass is 747.952
+NTUPLIZER: imaginary part is 114.974
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.3734
+fermion sum mass is 448.533
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.172
+fermion sum mass is 1290.49
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.669
+fermion sum mass is 463.274
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.7303
+fermion sum mass is 787.589
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.4207
+fermion sum mass is 825.128
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 67.2928
+fermion sum mass is 1642.37
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.578
+fermion sum mass is 627.367
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.1255
+fermion sum mass is 980.835
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.8679
+fermion sum mass is 433.157
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.0452
+fermion sum mass is 522.973
+NTUPLIZER: imaginary part is 38.3182
+jet and MET too close.
+lepton sum mass is 75.7374 and neutrino is imaginary
+parton sum mass is 87.4625
+fermion sum mass is 1170.92
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.2589
+fermion sum mass is 897.188
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.3525
+fermion sum mass is 580.264
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.2084
+fermion sum mass is 514.213
+missed the cutoff.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.4053
+fermion sum mass is 974.602
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.1611
+fermion sum mass is 410.196
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 66.5836
+fermion sum mass is 1166.49
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.8567
+fermion sum mass is 1294.06
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.8191
+fermion sum mass is 696.141
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.3697
+fermion sum mass is 1117.29
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.62
+fermion sum mass is 1538.82
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.8737
+fermion sum mass is 584.067
+missed the cutoff.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.7676
+fermion sum mass is 1150.14
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.6685
+fermion sum mass is 2247.9
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7944
+fermion sum mass is 511.092
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.5918
+fermion sum mass is 865.279
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.1497
+fermion sum mass is 586.782
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.8371
+fermion sum mass is 1151.96
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 72.8049
+fermion sum mass is 518.765
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.6524
+fermion sum mass is 1125.49
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.3187
+fermion sum mass is 809.075
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.6068
+fermion sum mass is 1008
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.2291
+fermion sum mass is 889.25
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.9401
+fermion sum mass is 805.225
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.2124
+fermion sum mass is 1130.2
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.1128
+fermion sum mass is 700.063
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.1813
+fermion sum mass is 1184.03
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.1264
+fermion sum mass is 1046.01
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.1788
+fermion sum mass is 733.535
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.412
+fermion sum mass is 461.462
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.9908
+fermion sum mass is 1144.35
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.6368
+fermion sum mass is 490.484
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.1109
+fermion sum mass is 1006.21
+NTUPLIZER: imaginary part is 23.696
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 76.9124 and neutrino is imaginary
+parton sum mass is 88.7029
+fermion sum mass is 948.362
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.4695
+fermion sum mass is 555.053
+NTUPLIZER: imaginary part is 75.3492
+lepton sum mass is 60.1898 and neutrino is imaginary
+parton sum mass is 87.1625
+fermion sum mass is 1157.9
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.4304
+fermion sum mass is 1593.32
+NTUPLIZER: imaginary part is 20.7485
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 78.9058 and neutrino is imaginary
+parton sum mass is 78.9351
+fermion sum mass is 520.968
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.119
+fermion sum mass is 492.918
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.1966
+fermion sum mass is 717.787
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.2623
+fermion sum mass is 730.029
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.6768
+fermion sum mass is 668.2
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.4123
+fermion sum mass is 695.122
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.639
+fermion sum mass is 1063.09
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.2327
+fermion sum mass is 1182.06
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7368
+fermion sum mass is 946.234
+NTUPLIZER: imaginary part is 89.0943
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 69.4424 and neutrino is imaginary
+parton sum mass is 68.3475
+fermion sum mass is 651.923
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.4891
+fermion sum mass is 665.907
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.1658
+fermion sum mass is 617.902
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.856
+fermion sum mass is 547.006
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.6729
+fermion sum mass is 1159.96
+NTUPLIZER: imaginary part is 119.574
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 31.9478 and neutrino is imaginary
+parton sum mass is 76.0222
+fermion sum mass is 1203.01
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.8462
+fermion sum mass is 664.057
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.0417
+fermion sum mass is 689.31
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.596
+fermion sum mass is 1425.81
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.3871
+fermion sum mass is 715.607
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.1972
+fermion sum mass is 736.226
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.3019
+fermion sum mass is 1790.77
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.2362
+fermion sum mass is 1120.62
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.2648
+fermion sum mass is 1312.32
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.394
+fermion sum mass is 677.425
+NTUPLIZER: imaginary part is 39.213
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 73.4762 and neutrino is imaginary
+parton sum mass is 84.3434
+fermion sum mass is 690.615
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.897
+fermion sum mass is 655.322
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.1593
+fermion sum mass is 650.864
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.4996
+fermion sum mass is 975.2
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.4605
+fermion sum mass is 476.794
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7225
+fermion sum mass is 1144.53
+NTUPLIZER: imaginary part is 203.954
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 69.4581 and neutrino is imaginary
+parton sum mass is 80.3227
+fermion sum mass is 796.343
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.5805
+fermion sum mass is 544.887
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.204
+fermion sum mass is 777.548
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9328
+fermion sum mass is 915.92
+NTUPLIZER: imaginary part is 6.9631
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.3466 and neutrino is imaginary
+parton sum mass is 82.8385
+fermion sum mass is 612.07
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.1223
+fermion sum mass is 702.063
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.0104
+fermion sum mass is 1178.76
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.4204
+fermion sum mass is 726.205
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 69.6523
+fermion sum mass is 499.54
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 64.0733
+fermion sum mass is 699.942
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.8164
+fermion sum mass is 778.105
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 99.7517
+fermion sum mass is 588.357
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.9074
+fermion sum mass is 587.179
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.3638
+fermion sum mass is 1090.35
+NTUPLIZER: imaginary part is 62.355
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 59.6019 and neutrino is imaginary
+parton sum mass is 88.7522
+fermion sum mass is 543.098
+NTUPLIZER: imaginary part is 30.3529
+missed the cutoff.
+jet and MET too close.
+lepton sum mass is 77.4972 and neutrino is imaginary
+parton sum mass is 72.8555
+fermion sum mass is 967.869
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.7641
+fermion sum mass is 729.982
+NTUPLIZER: imaginary part is 13.383
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 79.9356 and neutrino is imaginary
+parton sum mass is 82.3176
+fermion sum mass is 884.631
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.4613
+fermion sum mass is 733.526
+NTUPLIZER: imaginary part is 19.8797
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 77.9047 and neutrino is imaginary
+parton sum mass is 82.5174
+fermion sum mass is 708.569
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.9152
+fermion sum mass is 643.32
+NTUPLIZER: imaginary part is 26.1557
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 79.4809 and neutrino is imaginary
+parton sum mass is 77.05
+fermion sum mass is 452.615
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.3834
+fermion sum mass is 589.526
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.8272
+fermion sum mass is 422.584
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.7215
+fermion sum mass is 530.904
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.2377
+fermion sum mass is 632.302
+NTUPLIZER: imaginary part is 106.638
+jet and MET too close.
+lepton sum mass is 45.2812 and neutrino is imaginary
+parton sum mass is 83.3834
+fermion sum mass is 1082.55
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.2595
+fermion sum mass is 692.018
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.2408
+fermion sum mass is 547.95
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 62.2142
+fermion sum mass is 730.896
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 98.1229
+fermion sum mass is 705.006
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.5716
+fermion sum mass is 597.428
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.6122
+fermion sum mass is 728.214
+NTUPLIZER: imaginary part is 49.6858
+jet and MET too close.
+lepton sum mass is 78.5952 and neutrino is imaginary
+parton sum mass is 81.3428
+fermion sum mass is 1060
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.5559
+fermion sum mass is 606.054
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.3331
+fermion sum mass is 1062.56
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.9093
+fermion sum mass is 787.046
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.6739
+fermion sum mass is 639.695
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.8681
+fermion sum mass is 1083.48
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 64.6975
+fermion sum mass is 1015.39
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.0854
+fermion sum mass is 839.234
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.2527
+fermion sum mass is 873.825
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.1754
+fermion sum mass is 962.154
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.694
+fermion sum mass is 611.07
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.1328
+fermion sum mass is 602.089
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.1977
+fermion sum mass is 602.856
+NTUPLIZER: imaginary part is 64.8123
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 58.8728 and neutrino is imaginary
+parton sum mass is 85.2444
+fermion sum mass is 569.151
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.8038
+fermion sum mass is 781.187
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.2706
+fermion sum mass is 616.149
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.6324
+fermion sum mass is 703.847
+NTUPLIZER: imaginary part is 77.4002
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 41.1443 and neutrino is imaginary
+parton sum mass is 91.456
+fermion sum mass is 667.777
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.8475
+fermion sum mass is 540.815
+NTUPLIZER: imaginary part is 195.709
+WV less than 900.
+lepton sum mass is 53.583 and neutrino is imaginary
+parton sum mass is 88.5491
+fermion sum mass is 688.515
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.9618
+fermion sum mass is 725.077
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.172
+fermion sum mass is 976.97
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.1913
+fermion sum mass is 1049.66
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.7744
+fermion sum mass is 1366.56
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 60.7006
+fermion sum mass is 893.273
+NTUPLIZER: imaginary part is 9.12762
+wlep and jet too close.
+lepton sum mass is 80.093 and neutrino is imaginary
+parton sum mass is 80.1723
+fermion sum mass is 1136.68
+NTUPLIZER: imaginary part is 44.8787
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 76.9252 and neutrino is imaginary
+parton sum mass is 86.2829
+fermion sum mass is 647.594
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.7677
+fermion sum mass is 687.167
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.2093
+fermion sum mass is 1384.82
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.0156
+fermion sum mass is 1083.27
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.0387
+fermion sum mass is 676.521
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 69.7473
+fermion sum mass is 1029.35
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.3751
+fermion sum mass is 764.825
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.6524
+fermion sum mass is 1076.14
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.3692
+fermion sum mass is 1010.57
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.547
+fermion sum mass is 834.059
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.6559
+fermion sum mass is 999.446
+NTUPLIZER: imaginary part is 53.7916
+lepton sum mass is 78.5033 and neutrino is imaginary
+parton sum mass is 88.8956
+fermion sum mass is 931.989
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 100.311
+fermion sum mass is 667.554
+NTUPLIZER: imaginary part is 9.86766
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 79.97 and neutrino is imaginary
+parton sum mass is 90.6887
+fermion sum mass is 575.067
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.7998
+fermion sum mass is 693.628
+NTUPLIZER: imaginary part is 194.804
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 67.6257 and neutrino is imaginary
+parton sum mass is 99.6329
+fermion sum mass is 1189.73
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.2798
+fermion sum mass is 1114.07
+NTUPLIZER: imaginary part is 41.4445
+wlep and jet too close.
+lepton sum mass is 74.9518 and neutrino is imaginary
+parton sum mass is 76.366
+fermion sum mass is 1251.1
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.8078
+fermion sum mass is 574.51
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.3876
+fermion sum mass is 1000.17
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.085
+fermion sum mass is 502.96
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.6263
+fermion sum mass is 1025.92
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.8576
+fermion sum mass is 980.513
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.0931
+fermion sum mass is 1043.01
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.0594
+fermion sum mass is 480.33
+NTUPLIZER: imaginary part is 76.4455
+lepton sum mass is 68.9303 and neutrino is imaginary
+parton sum mass is 84.3961
+fermion sum mass is 941.519
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.6344
+fermion sum mass is 687.35
+NTUPLIZER: imaginary part is 49.5504
+lepton sum mass is 64.3271 and neutrino is imaginary
+parton sum mass is 85.9366
+fermion sum mass is 1233.6
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.5439
+fermion sum mass is 911.094
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.6987
+fermion sum mass is 672.232
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.4623
+fermion sum mass is 532.578
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.4637
+fermion sum mass is 1021.41
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.6586
+fermion sum mass is 520.136
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.3335
+fermion sum mass is 956.136
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.98
+fermion sum mass is 1240.68
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.2118
+fermion sum mass is 965.924
+NTUPLIZER: imaginary part is 35.4063
+WV less than 900.
+lepton sum mass is 75.8936 and neutrino is imaginary
+parton sum mass is 80.8515
+fermion sum mass is 874.035
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.1428
+fermion sum mass is 651.166
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.482
+fermion sum mass is 732.405
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.1398
+fermion sum mass is 1029.95
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 63.8359
+fermion sum mass is 670.041
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.6309
+fermion sum mass is 480.959
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.2558
+fermion sum mass is 674.42
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.7105
+fermion sum mass is 741.167
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.8617
+fermion sum mass is 1360.8
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.5801
+fermion sum mass is 687.189
+NTUPLIZER: imaginary part is 12.7596
+wlep and jet too close.
+lepton sum mass is 79.4177 and neutrino is imaginary
+parton sum mass is 88.2474
+fermion sum mass is 1106.18
+NTUPLIZER: imaginary part is 36.5823
+lepton sum mass is 72.5699 and neutrino is imaginary
+parton sum mass is 73.9119
+fermion sum mass is 1162.96
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.5758
+fermion sum mass is 1081.09
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.1245
+fermion sum mass is 903.793
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.8495
+fermion sum mass is 619.795
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.4426
+fermion sum mass is 896.925
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.0269
+fermion sum mass is 1021.98
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.77
+fermion sum mass is 394.862
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.6792
+fermion sum mass is 934.049
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.5617
+fermion sum mass is 1518
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.4164
+fermion sum mass is 583.45
+NTUPLIZER: imaginary part is 39.7442
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 74.9793 and neutrino is imaginary
+parton sum mass is 83.286
+fermion sum mass is 657.647
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.2049
+fermion sum mass is 867.259
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.607
+fermion sum mass is 734.812
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.6531
+fermion sum mass is 1013.66
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 66.5743
+fermion sum mass is 961.493
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.0493
+fermion sum mass is 1113.2
+NTUPLIZER: imaginary part is 38.889
+wlep and jet too close.
+lepton sum mass is 75.4524 and neutrino is imaginary
+parton sum mass is 72.595
+fermion sum mass is 1064.43
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.3563
+fermion sum mass is 3126.6
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.5023
+fermion sum mass is 529.408
+NTUPLIZER: imaginary part is 125.835
+WV less than 900.
+lepton sum mass is 73.8911 and neutrino is imaginary
+parton sum mass is 78.9815
+fermion sum mass is 788.706
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.2725
+fermion sum mass is 788.1
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8157
+fermion sum mass is 579.722
+NTUPLIZER: imaginary part is 129.504
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 71.179 and neutrino is imaginary
+parton sum mass is 78.3452
+fermion sum mass is 509.924
+NTUPLIZER: imaginary part is 25.7343
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 77.3174 and neutrino is imaginary
+parton sum mass is 86.1227
+fermion sum mass is 826.718
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 98.8177
+fermion sum mass is 540.949
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.6307
+fermion sum mass is 592.851
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.5228
+fermion sum mass is 477.519
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.6792
+fermion sum mass is 472.943
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.608
+fermion sum mass is 1523.77
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.9061
+fermion sum mass is 810.108
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.8136
+fermion sum mass is 1087.22
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9834
+fermion sum mass is 643.482
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.3812
+fermion sum mass is 1153.27
+NTUPLIZER: imaginary part is 37.566
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 74.2554 and neutrino is imaginary
+parton sum mass is 76.8276
+fermion sum mass is 478.338
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.4329
+fermion sum mass is 543.927
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.7596
+fermion sum mass is 1455.82
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.0646
+fermion sum mass is 1082.25
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.3224
+fermion sum mass is 753.361
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 64.8502
+fermion sum mass is 826.433
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.927
+fermion sum mass is 586.523
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.4263
+fermion sum mass is 912.292
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.8833
+fermion sum mass is 795.076
+NTUPLIZER: imaginary part is 149.501
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.7839
+fermion sum mass is 569.144
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.8404
+fermion sum mass is 506.455
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.7789
+fermion sum mass is 492.849
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 69.9018
+fermion sum mass is 1741.35
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.747
+fermion sum mass is 625.338
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.5202
+fermion sum mass is 688.132
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.0595
+fermion sum mass is 447.38
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.0129
+fermion sum mass is 455.96
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 68.6234
+fermion sum mass is 617.174
+NTUPLIZER: imaginary part is 59.5945
+wlep and jet too close.
+lepton sum mass is 62.6292 and neutrino is imaginary
+parton sum mass is 83.2224
+fermion sum mass is 1145.46
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.7057
+fermion sum mass is 837.388
+NTUPLIZER: imaginary part is 111.268
+wlep and jet too close.
+lepton sum mass is 62.2203 and neutrino is imaginary
+parton sum mass is 95.6809
+fermion sum mass is 1044.79
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9457
+fermion sum mass is 575.946
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.6044
+fermion sum mass is 630.861
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.0743
+fermion sum mass is 1409.95
+NTUPLIZER: imaginary part is 41.6467
+WV less than 900.
+lepton sum mass is 71.1251 and neutrino is imaginary
+parton sum mass is 88.3996
+fermion sum mass is 590.764
+NTUPLIZER: imaginary part is 28.4934
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 76.0379 and neutrino is imaginary
+parton sum mass is 88.9779
+fermion sum mass is 840.398
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.0226
+fermion sum mass is 963.954
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.1021
+fermion sum mass is 433.137
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.0487
+fermion sum mass is 592.33
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.4461
+fermion sum mass is 1405.62
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.9305
+fermion sum mass is 756.623
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.088
+fermion sum mass is 823.518
+NTUPLIZER: imaginary part is 147.336
+WV less than 900.
+lepton sum mass is 49.9773 and neutrino is imaginary
+parton sum mass is 82.3512
+fermion sum mass is 842.569
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.2327
+fermion sum mass is 613.706
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.5913
+fermion sum mass is 1421.47
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.1832
+fermion sum mass is 856.058
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.8342
+fermion sum mass is 1212.72
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.5805
+fermion sum mass is 487.614
+NTUPLIZER: imaginary part is 86.4003
+lepton sum mass is -24.5597 and neutrino is imaginary
+parton sum mass is 79.2356
+fermion sum mass is 1718.22
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: -20.9731 Y: 17.9195 Z: 750.181 T: 1875.05
+lepton_sum is X: -706.891 Y: 23.3462 Z: -167.672 T: 726.465
+parton_sum is X: 685.918 Y: -5.42676 Z: 917.853 T: 1148.58
+boostWWframe is X: 0.0111854 Y: -0.00955679 Z: -0.400086
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: -697.648 Y: 15.449 Z: -498.281 T: 857.107
+boostWlep is X: 0.973057 Y: -0.0321367 Z: 0.230805
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: -0.597186 Y: 0.00472474 Z: -0.799117
+unitx_2 is X: 0.61849 Y: -0.00584809 Z: 0.785771
+lepton1Whad_frame is X: -7363.65 Y: 118.61 Z: -9352.32 T: 11903.6
+unitz_2 is X: -0.785375 Y: -0.0371983 Z: 0.785771
+unity_2 is X: -0.0256157 Y: 0.999291 Z: 0.0275997
+parton1Whad_frame is X: 0.165936 Y: 19.2208 Z: 31.5023 T: 40.4872
+parton1 dotted is X: 0.670502 Y: 0.543917 Z: 0.504561
+lepton_sum_WWframe is X: -697.648 Y: 15.449 Z: -498.281 T: 857.107
+lepton1WWframe is X: -448.706 Y: 58.9081 Z: -318.032 T: 546.703
+parton1WWframe is X: 564.266 Y: 6.55762 Z: 426.88 T: 707.773
+parton_sum_WWframe is X: 697.648 Y: -15.449 Z: 498.281 T: 861.112
+n_unitx_1 is X: -0.000793386 Y: 0.0885535 Z: 0.0038564
+n_unitz_1 is X: -0.813623 Y: 0.0180172 Z: 0.0038564
+n_unity_1 is X: 0.0515291 Y: 0.0035987 Z: -0.0720349
+n_unitx_2 is X: -0.0155516 Y: 0.0272714 Z: 0.0226195
+n_unitz_2 is X: 0.813623 Y: -0.0180172 Z: 0.0226195
+n_unity_2 is X: -0.0162553 Y: -0.0274409 Z: 0.0219085
+=======================================================================================================
+NTUPLIZER: imaginary part is 26.4564
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 77.5516 and neutrino is imaginary
+parton sum mass is 90.9226
+fermion sum mass is 719.512
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.4347
+fermion sum mass is 975.771
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.4269
+fermion sum mass is 972.29
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.0142
+fermion sum mass is 1284.07
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.251
+fermion sum mass is 512.579
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.374
+fermion sum mass is 1289.17
+NTUPLIZER: imaginary part is 200.854
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 59.504 and neutrino is imaginary
+parton sum mass is 85.7137
+fermion sum mass is 1552.09
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.6067
+fermion sum mass is 1006.02
+NTUPLIZER: imaginary part is 50.7616
+jet and MET too close.
+lepton sum mass is 72.757 and neutrino is imaginary
+parton sum mass is 80.2748
+fermion sum mass is 1253.8
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.0769
+fermion sum mass is 647.033
+NTUPLIZER: imaginary part is 72.3871
+lepton sum mass is 36.1857 and neutrino is imaginary
+parton sum mass is 91.9375
+fermion sum mass is 1394.25
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.2931
+fermion sum mass is 876.851
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.2543
+fermion sum mass is 606.15
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.7955
+fermion sum mass is 1140.23
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.9974
+fermion sum mass is 489.144
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.3847
+fermion sum mass is 1011.11
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.6315
+fermion sum mass is 2157.4
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.5083
+fermion sum mass is 1007.27
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.0236
+fermion sum mass is 558.335
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.2967
+fermion sum mass is 825.174
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.9235
+fermion sum mass is 697.806
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8252
+fermion sum mass is 916.415
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.9616
+fermion sum mass is 1053.26
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.5551
+fermion sum mass is 523.067
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.7495
+fermion sum mass is 575.349
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.3948
+fermion sum mass is 844.142
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.3612
+fermion sum mass is 498.126
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.4328
+fermion sum mass is 746.11
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.7808
+fermion sum mass is 872.171
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.1427
+fermion sum mass is 769.161
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.1502
+fermion sum mass is 582.762
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.6033
+fermion sum mass is 945.65
+NTUPLIZER: imaginary part is 24.5911
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 76.6362 and neutrino is imaginary
+parton sum mass is 85.1897
+fermion sum mass is 392.41
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.0401
+fermion sum mass is 663.965
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.3209
+fermion sum mass is 1075.51
+NTUPLIZER: imaginary part is 16.705
+lepton sum mass is 78.8343 and neutrino is imaginary
+parton sum mass is 66.4451
+fermion sum mass is 1169.55
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.0163
+fermion sum mass is 1160.4
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.774
+fermion sum mass is 805.809
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.0869
+fermion sum mass is 821.852
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.2433
+fermion sum mass is 993.371
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 98.8288
+fermion sum mass is 752.493
+NTUPLIZER: imaginary part is 25.437
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 76.6705 and neutrino is imaginary
+parton sum mass is 71.9204
+fermion sum mass is 719.453
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9221
+fermion sum mass is 538.598
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.3339
+fermion sum mass is 1102.81
+NTUPLIZER: imaginary part is 33.4446
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 73.2308 and neutrino is imaginary
+parton sum mass is 88.1743
+fermion sum mass is 752.596
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.6246
+fermion sum mass is 745.633
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.7344
+fermion sum mass is 578.36
+NTUPLIZER: imaginary part is 43.2262
+wlep and jet too close.
+lepton sum mass is 68.6667 and neutrino is imaginary
+parton sum mass is 88.1672
+fermion sum mass is 975.873
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.7177
+fermion sum mass is 1374.9
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.8016
+fermion sum mass is 1495.13
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 66.7103
+fermion sum mass is 850.793
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.9841
+fermion sum mass is 1245.91
+NTUPLIZER: imaginary part is 80.5537
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 73.5093 and neutrino is imaginary
+parton sum mass is 79.4027
+fermion sum mass is 587.362
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.4974
+fermion sum mass is 875.1
+NTUPLIZER: imaginary part is 41.7668
+jet and MET too close.
+lepton sum mass is 75.2707 and neutrino is imaginary
+parton sum mass is 80.9821
+fermion sum mass is 1044.28
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.72
+fermion sum mass is 888.942
+NTUPLIZER: imaginary part is 278.876
+wlep and jet too close.
+lepton sum mass is -95.3423 and neutrino is imaginary
+parton sum mass is 79.948
+fermion sum mass is 1536.43
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: 26.4391 Y: 0.539508 Z: 2031.27 T: 2547.04
+lepton_sum is X: 558.549 Y: -475.05 Z: 1454.05 T: 1625.67
+parton_sum is X: -532.11 Y: 475.589 Z: 577.226 T: 921.362
+boostWWframe is X: -0.0103803 Y: -0.000211818 Z: -0.797505
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: 543.082 Y: -475.365 Z: 265.741 T: 763.177
+boostWlep is X: -0.34358 Y: 0.292217 Z: -0.894428
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: 0.577526 Y: -0.51618 Z: -0.626492
+unitx_2 is X: -0.627641 Y: 0.559337 Z: 0.541488
+lepton1Whad_frame is X: 8165.02 Y: -7316.21 Z: -7064 T: 13041.4
+unitz_2 is X: 0.352102 Y: -0.41639 Z: 0.541488
+unity_2 is X: -0.694328 Y: -0.716772 Z: -0.0643997
+parton1Whad_frame is X: -25.8211 Y: 26.2868 Z: -5.05759 T: 41.8191
+parton1 dotted is X: 0.75743 Y: -0.0158005 Z: -0.652725
+lepton_sum_WWframe is X: 543.082 Y: -475.365 Z: 265.741 T: 763.177
+lepton1WWframe is X: 462.23 Y: -444.038 Z: 233.279 T: 670.59
+parton1WWframe is X: -468.561 Y: 413.421 Z: -255.816 T: 675.48
+parton_sum_WWframe is X: -543.082 Y: 475.365 Z: -265.741 T: 773.253
+n_unitx_1 is X: -0.0277777 Y: -0.0335135 Z: -0.00318189
+n_unitz_1 is X: 0.706119 Y: -0.618072 Z: -0.00318189
+n_unity_1 is X: 0.0135462 Y: -0.00735091 Z: -0.0408331
+n_unitx_2 is X: 0.0117131 Y: -0.0053873 Z: -0.0335745
+n_unitz_2 is X: -0.706119 Y: 0.618072 Z: -0.0335745
+n_unity_2 is X: -0.0226129 Y: -0.0277547 Z: -0.00343549
+=======================================================================================================
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.7183
+fermion sum mass is 693.124
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.41
+fermion sum mass is 958.696
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.7605
+fermion sum mass is 1351.29
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.8704
+fermion sum mass is 1112.81
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.1322
+fermion sum mass is 674.965
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.7083
+fermion sum mass is 1088.46
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.4317
+fermion sum mass is 1426.32
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.4609
+fermion sum mass is 608.538
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.4733
+fermion sum mass is 516.392
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.635
+fermion sum mass is 913.323
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.9353
+fermion sum mass is 594.557
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.4444
+fermion sum mass is 801.194
+NTUPLIZER: imaginary part is 67.5806
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 60.7516 and neutrino is imaginary
+parton sum mass is 77.2177
+fermion sum mass is 299.256
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 71.5403
+fermion sum mass is 603.083
+NTUPLIZER: imaginary part is 108.448
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 77.4427 and neutrino is imaginary
+parton sum mass is 84.3233
+fermion sum mass is 596.768
+NTUPLIZER: imaginary part is 7.47993
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.2438 and neutrino is imaginary
+parton sum mass is 85.7787
+fermion sum mass is 764.231
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7387
+fermion sum mass is 1596.77
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.0948
+fermion sum mass is 1084.6
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.8937
+fermion sum mass is 1288.32
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.6233
+fermion sum mass is 618.673
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.9903
+fermion sum mass is 677.239
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8766
+fermion sum mass is 840.963
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.5634
+fermion sum mass is 624.712
+NTUPLIZER: imaginary part is 135.173
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 66.8113 and neutrino is imaginary
+parton sum mass is 70.5717
+fermion sum mass is 843.678
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.3053
+fermion sum mass is 492.731
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.8265
+fermion sum mass is 840.625
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.0192
+fermion sum mass is 512.435
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8538
+fermion sum mass is 601.031
+NTUPLIZER: imaginary part is 39.1364
+lepton sum mass is 77.3727 and neutrino is imaginary
+parton sum mass is 86.6235
+fermion sum mass is 1008.34
+NTUPLIZER: imaginary part is 56.9806
+WV less than 900.
+lepton sum mass is 65.1473 and neutrino is imaginary
+parton sum mass is 77.9184
+fermion sum mass is 457.334
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.7061
+fermion sum mass is 846.966
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.9719
+fermion sum mass is 817.121
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.8868
+fermion sum mass is 477.563
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.1875
+fermion sum mass is 1020.93
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 97.8717
+fermion sum mass is 796.061
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.521
+fermion sum mass is 939.336
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.0983
+fermion sum mass is 523.256
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.964
+fermion sum mass is 831.942
+NTUPLIZER: imaginary part is 370.868
+wlep and jet too close.
+lepton sum mass is -57.3826 and neutrino is imaginary
+parton sum mass is 95.9796
+fermion sum mass is 1441.14
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: -2.39525 Y: -2.73406 Z: 3027.39 T: 3352.91
+lepton_sum is X: -620.874 Y: 135.348 Z: 2290.3 T: 2376.13
+parton_sum is X: 618.479 Y: -138.082 Z: 737.09 T: 976.779
+boostWWframe is X: 0.00071438 Y: 0.000815429 Z: -0.902915
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: -619.329 Y: 137.112 Z: 337.507 T: 716.231
+boostWlep is X: 0.261297 Y: -0.0569617 Z: -0.963879
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: -0.633182 Y: 0.141365 Z: -0.754613
+unitx_2 is X: 0.761048 Y: -0.16961 Z: 0.626129
+lepton1Whad_frame is X: -977.469 Y: 188.831 Z: -795.582 T: 1274.38
+unitz_2 is X: 0.5872 Y: -0.230075 Z: 0.626129
+unity_2 is X: -0.275683 Y: -0.958279 Z: 0.0755034
+parton1Whad_frame is X: 24.7822 Y: 30.6741 Z: 19.3642 T: 49.9048
+parton1 dotted is X: 0.586868 Y: -0.791319 Z: -0.171466
+lepton_sum_WWframe is X: -619.329 Y: 137.112 Z: 337.507 T: 716.231
+lepton1WWframe is X: -75.8276 Y: -12.214 Z: 41.1129 T: 87.1165
+parton1WWframe is X: 499.394 Y: -74.3732 Z: -263.313 T: 569.93
+parton_sum_WWframe is X: 619.329 Y: -137.112 Z: -337.507 T: 724.908
+n_unitx_1 is X: -0.0557306 Y: -0.320565 Z: 0.0279628
+n_unitz_1 is X: -0.861944 Y: 0.190824 Z: 0.0279628
+n_unity_1 is X: 0.155912 Y: -0.00207552 Z: 0.286944
+n_unitx_2 is X: 0.016734 Y: 0.0598431 Z: 0.00639592
+n_unitz_2 is X: 0.861944 Y: -0.190824 Z: 0.00639592
+n_unity_2 is X: 0.0268891 Y: -0.0133733 Z: 0.0547747
+=======================================================================================================
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.697
+fermion sum mass is 457.405
+NTUPLIZER: imaginary part is 32.2045
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 73.815 and neutrino is imaginary
+parton sum mass is 77.7091
+fermion sum mass is 646.585
+NTUPLIZER: imaginary part is 75.0354
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 77.2302 and neutrino is imaginary
+parton sum mass is 87.7942
+fermion sum mass is 898.468
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.6368
+fermion sum mass is 770.33
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.8666
+fermion sum mass is 936.272
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.595
+fermion sum mass is 575.436
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.8044
+fermion sum mass is 717.882
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.4787
+fermion sum mass is 1007.14
+NTUPLIZER: imaginary part is 12.0886
+missed the cutoff.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 79.6647 and neutrino is imaginary
+parton sum mass is 91.6659
+fermion sum mass is 1138.39
+NTUPLIZER: imaginary part is 480.442
+jet and MET too close.
+lepton sum mass is -135.863 and neutrino is imaginary
+parton sum mass is 94.2769
+fermion sum mass is 1434.4
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: 31.0965 Y: 12.6518 Z: -2914.7 T: 3248.71
+lepton_sum is X: -671.039 Y: 53.1142 Z: -1894.97 T: 2006.39
+parton_sum is X: 702.136 Y: -40.4624 Z: -1019.72 T: 1242.32
+boostWWframe is X: -0.00957196 Y: -0.00389441 Z: 0.897188
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: -689.061 Y: 45.782 Z: -205.786 T: 707.665
+boostWlep is X: 0.334452 Y: -0.0264726 Z: 0.944472
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: -0.565181 Y: 0.0325701 Z: 0.820823
+unitx_2 is X: 0.682618 Y: -0.0406551 Z: -0.729644
+lepton1Whad_frame is X: -706.849 Y: 69.8806 Z: 753.702 T: 1035.66
+unitz_2 is X: 0.730757 Y: 0.0451899 Z: -0.729644
+unity_2 is X: -0.00528068 Y: 0.998151 Z: -0.0605564
+parton1Whad_frame is X: 41.8095 Y: 15.0845 Z: 3.80266 T: 48.4159
+parton1 dotted is X: 0.563823 Y: 0.327406 Z: 0.758228
+lepton_sum_WWframe is X: -689.061 Y: 45.782 Z: -205.786 T: 707.665
+lepton1WWframe is X: -59.1933 Y: 31.7219 Z: -20.8605 T: 70.3227
+parton1WWframe is X: 531.214 Y: -17.6441 Z: 192.064 T: 565.458
+parton_sum_WWframe is X: 689.061 Y: -45.782 Z: 205.786 T: 726.73
+n_unitx_1 is X: 0.036367 Y: 0.392748 Z: -0.0343963
+n_unitz_1 is X: -0.956247 Y: 0.0635341 Z: -0.0343963
+n_unity_1 is X: 0.109976 Y: -0.043277 Z: -0.377875
+n_unitx_2 is X: -0.0142508 Y: 0.0321785 Z: 0.054877
+n_unitz_2 is X: 0.956247 Y: -0.0635341 Z: 0.054877
+n_unity_2 is X: -0.0126761 Y: -0.0565457 Z: 0.0298652
+=======================================================================================================
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.5889
+fermion sum mass is 1077.43
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.7709
+fermion sum mass is 573.393
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.6783
+fermion sum mass is 896.478
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.8689
+fermion sum mass is 462.614
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.333
+fermion sum mass is 706.179
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.9326
+fermion sum mass is 851.302
+NTUPLIZER: imaginary part is 123.093
+jet and MET too close.
+lepton sum mass is 19.4901 and neutrino is imaginary
+parton sum mass is 89.3942
+fermion sum mass is 1441.42
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 70.6323
+fermion sum mass is 659.224
+NTUPLIZER: imaginary part is 16.0739
+missed the cutoff.
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 79.891 and neutrino is imaginary
+parton sum mass is 70.7773
+fermion sum mass is 752.169
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.6196
+fermion sum mass is 913.538
+NTUPLIZER: imaginary part is 54.6597
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 76.9024 and neutrino is imaginary
+parton sum mass is 83.4417
+fermion sum mass is 642.977
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.1756
+fermion sum mass is 875.853
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 69.8793
+fermion sum mass is 961.537
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.6271
+fermion sum mass is 1108.79
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 69.2485
+fermion sum mass is 595.285
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 91.4104
+fermion sum mass is 570.188
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.0607
+fermion sum mass is 1396.02
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 78.7726
+fermion sum mass is 955.906
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.5544
+fermion sum mass is 735.287
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.6759
+fermion sum mass is 1020.52
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 73.0263
+fermion sum mass is 589.631
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.1429
+fermion sum mass is 791.318
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.9765
+fermion sum mass is 789.166
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.5637
+fermion sum mass is 1438.99
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.8828
+fermion sum mass is 1161.77
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.6767
+fermion sum mass is 604.619
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.2957
+fermion sum mass is 1158.17
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.6233
+fermion sum mass is 498.964
+NTUPLIZER: imaginary part is 15.867
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 78.89 and neutrino is imaginary
+parton sum mass is 86.0989
+fermion sum mass is 1348.03
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.9345
+fermion sum mass is 955.697
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.5976
+fermion sum mass is 936.149
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 96.7469
+fermion sum mass is 1095.75
+NTUPLIZER: imaginary part is 70.6399
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 78.9013 and neutrino is imaginary
+parton sum mass is 61.0421
+fermion sum mass is 536.059
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9133
+fermion sum mass is 1218.84
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.5109
+fermion sum mass is 1093.14
+NTUPLIZER: imaginary part is 69.3058
+missed the cutoff.
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 70.1194 and neutrino is imaginary
+parton sum mass is 64.2117
+fermion sum mass is 775.825
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.632
+fermion sum mass is 1787.86
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.3595
+fermion sum mass is 790.652
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 99.4237
+fermion sum mass is 687.341
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.1896
+fermion sum mass is 603.575
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 76.0736
+fermion sum mass is 532.246
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.6192
+fermion sum mass is 546.9
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.2661
+fermion sum mass is 711.507
+NTUPLIZER: imaginary part is 131.91
+missed the cutoff.
+WV less than 900.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.6724
+fermion sum mass is 728.741
+NTUPLIZER: imaginary part is 119.223
+WV less than 900.
+lepton sum mass is 48.8093 and neutrino is imaginary
+parton sum mass is 93.4478
+fermion sum mass is 491.016
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.0611
+fermion sum mass is 768.572
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.472
+fermion sum mass is 643.781
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.0766
+fermion sum mass is 1105.64
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.6064
+fermion sum mass is 1504.47
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8147
+fermion sum mass is 1299.81
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.4773
+fermion sum mass is 611.817
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.4741
+fermion sum mass is 1002.51
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.2865
+fermion sum mass is 466.841
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 74.7139
+fermion sum mass is 893.232
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.5175
+fermion sum mass is 853.458
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.0935
+fermion sum mass is 606.015
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 86.8317
+fermion sum mass is 1038.62
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.8965
+fermion sum mass is 522.133
+NTUPLIZER: imaginary part is 175.44
+wlep and jet too close.
+lepton sum mass is -130.592 and neutrino is imaginary
+parton sum mass is 79.1157
+fermion sum mass is 965.69
+partons_in_lep_px is bad
+partons_in_lep_py is bad
+partons_in_lep_pz is bad
+unit_x_1 is bad.
+parton1_in_lep_px is bad.
+parton1_in_lep_py is bad.
+parton1_in_lep_pz is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+parton2_in_lep_px is bad.
+unitz_1 is bad.
+unity_1 is bad.
+lepton1_in_lep_px is bad.
+lepton1_in_lep_py is bad.
+lepton1_in_lep_pz is bad.
+lepton1_dotted_x is bad.
+lepton1_dotted_y is bad.
+lepton1_dotted_z is bad.
+=======================================================================================================
+fermion_sum is X: -23.6523 Y: -16.0808 Z: 5.32512 T: 966.128
+lepton_sum is X: -438.59 Y: 22.0074 Z: -232.961 T: 479.648
+parton_sum is X: 414.937 Y: -38.0883 Z: 238.286 T: 486.48
+boostWWframe is X: 0.0244816 Y: 0.0166446 Z: -0.00551182
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton_sum_WWframe is X: -426.953 Y: 29.9189 Z: -235.581 T: 470.774
+boostWlep is X: 0.9144 Y: -0.0458825 Z: 0.485692
+parton_sumWlep_frame is X: -nan Y: -nan Z: -nanT: -nan
+unitx_1 is X: nan Y: nan Z: nan
+parton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+parton2Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+unitz_1 is X: -nan Y: -nan Z: nan
+unity_1 is X: nan Y: nan Z: -nan
+lepton1Wlep_frame is X: -nan Y: -nan Z: -nan T: -nan
+lepton1 dotted is X: nan Y: nan Z: -nan
+boostWhad is X: -0.852937 Y: 0.0782935 Z: -0.489816
+unitx_2 is X: 0.866009 Y: -0.0764327 Z: 0.494152
+lepton1Whad_frame is X: -3640.52 Y: 378.837 Z: -2068.11 T: 4201.24
+unitz_2 is X: -0.500024 Y: -0.136698 Z: 0.494152
+unity_2 is X: -0.00218776 Y: 0.98766 Z: 0.1566
+parton1Whad_frame is X: -12.5286 Y: -21.4711 Z: 29.4889 T: 39.7718
+parton1 dotted is X: 0.139056 Y: -0.42938 Z: 0.892354
+lepton_sum_WWframe is X: -426.953 Y: 29.9189 Z: -235.581 T: 470.774
+lepton1WWframe is X: -309.241 Y: 79.209 Z: -161.443 T: 323.187
+parton1WWframe is X: 227.454 Y: -38.2096 Z: 161.823 T: 281.915
+parton_sum_WWframe is X: 426.953 Y: -29.9189 Z: 235.581 T: 494.916
+n_unitx_1 is X: -0.00221493 Y: 0.161001 Z: 0.0244615
+n_unitz_1 is X: -0.873916 Y: 0.0612401 Z: 0.0244615
+n_unity_1 is X: 0.0791333 Y: 0.0224453 Z: -0.140566
+n_unitx_2 is X: -0.0585545 Y: -0.0749414 Z: 0.0966031
+n_unitz_2 is X: 0.873916 Y: -0.0612401 Z: 0.0966031
+n_unity_2 is X: 0.030221 Y: -0.112658 Z: -0.0690784
+=======================================================================================================
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.7311
+fermion sum mass is 586.903
+NTUPLIZER: imaginary part is 111.8
+wlep and jet too close.
+lepton sum mass is 59.6914 and neutrino is imaginary
+parton sum mass is 75.0932
+fermion sum mass is 1082.27
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.868
+fermion sum mass is 872.599
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.3128
+fermion sum mass is 941.682
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 85.4246
+fermion sum mass is 655.058
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.306
+fermion sum mass is 1299.2
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.7098
+fermion sum mass is 766.303
+NTUPLIZER: imaginary part is 15.1589
+lepton sum mass is 79.9435 and neutrino is imaginary
+parton sum mass is 79.9963
+fermion sum mass is 1242.76
+NTUPLIZER: imaginary part is 87.9554
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 66.0683 and neutrino is imaginary
+parton sum mass is 86.7486
+fermion sum mass is 1198.62
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 98.5766
+fermion sum mass is 1104.1
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.3818
+fermion sum mass is 1091.81
+NTUPLIZER: imaginary part is 15.8062
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 78.8312 and neutrino is imaginary
+parton sum mass is 77.3128
+fermion sum mass is 698.607
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.7344
+fermion sum mass is 1556.12
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.1609
+fermion sum mass is 535.627
+missed the cutoff.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.4543
+fermion sum mass is 944.386
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.7735
+fermion sum mass is 1468.37
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.3572
+fermion sum mass is 526.471
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.9211
+fermion sum mass is 1001.05
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 77.6948
+fermion sum mass is 698.915
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.86
+fermion sum mass is 803.703
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 89.5289
+fermion sum mass is 650.279
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 92.7005
+fermion sum mass is 953.673
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 93.3415
+fermion sum mass is 937.619
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 87.2669
+fermion sum mass is 849.407
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 75.6154
+fermion sum mass is 417.272
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 79.7656
+fermion sum mass is 1375.89
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.331
+fermion sum mass is 1292.45
+NTUPLIZER: imaginary part is 35.2932
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 72.2575 and neutrino is imaginary
+parton sum mass is 78.6632
+fermion sum mass is 709.261
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 81.7276
+fermion sum mass is 856.304
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 88.6285
+fermion sum mass is 904.627
+NTUPLIZER: imaginary part is 73.0696
+wlep and jet too close.
+lepton sum mass is 66.5098 and neutrino is imaginary
+parton sum mass is 81.1687
+fermion sum mass is 995.877
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.5599
+fermion sum mass is 474.218
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 90.0613
+fermion sum mass is 1929.13
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 60.9842
+fermion sum mass is 468.673
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.8339
+fermion sum mass is 869.107
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.7634
+fermion sum mass is 477.34
+NTUPLIZER: imaginary part is 164.365
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 58.5027 and neutrino is imaginary
+parton sum mass is 75.5392
+fermion sum mass is 466.744
+NTUPLIZER: imaginary part is 167.589
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 62.5249 and neutrino is imaginary
+parton sum mass is 99.1889
+fermion sum mass is 418.007
+missed the cutoff.
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 83.2817
+fermion sum mass is 507.495
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 80.9411
+fermion sum mass is 1081.15
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 84.9149
+fermion sum mass is 1022.74
+WV less than 900.
+jet and MET too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 94.0711
+fermion sum mass is 641.043
+WV less than 900.
+wlep and jet too close.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 82.5936
+fermion sum mass is 514.31
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 68.6168
+fermion sum mass is 817.281
+WV less than 900.
+lepton sum mass is 80.4 and neutrino is real
+parton sum mass is 95.7203
+fermion sum mass is 760.021
+NTUPLIZER: imaginary part is 54.1809
+WV less than 900.
+jet and MET too close.
+wlep and jet too close.
+lepton sum mass is 79.1077 and neutrino is imaginary
+parton sum mass is 86.1401
+fermion sum mass is 473.909

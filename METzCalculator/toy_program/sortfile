@@ -1,0 +1,17 @@
+274:  ///Double_t Mchic = 3.510; // The c1 state as a middle compromise
+304:  TCanvas* c1 = new TCanvas("c1","W mass distributions",20,10,700,500);
+305:  c1->SetFillColor(42);
+306:  c1->GetFrame()->SetFillColor(21);
+307:  c1->GetFrame()->SetBorderSize(6);
+308:  c1->GetFrame()->SetBorderMode(-1);
+329:  TH1F* hMgen  = new TH1F("hMgen",";M(Wgen) [GeV/c2];events per 0.5 GeV/c2",120,40.,100.);
+330:  hMgen->Sumw2();
+412:  hMgen->SetFillColor(48);
+for loop
+437:      hMgen->Fill(Mgen);
+end for loop
+577:  c1->cd();
+578:  hMgen->Draw();
+579:  c1->Modified();
+580:  c1->Update();
+593:  c1->Modified();
